@@ -23,11 +23,11 @@ Uma calculadora web desenvolvida com HTML, CSS e JavaScript, criada para pratica
 - CSS3
 - JavaScript
 
-##📚 Objetivo
+📚 Objetivo
 
 Este projeto foi desenvolvido para colocar em prática conhecimentos de HTML, CSS e JavaScript, trabalhando principalmente com lógica de programação, eventos e manipulação da interface.
 
-##👨‍💻 Autor
+👨‍💻 Autor
 
 Caique Torres
 
