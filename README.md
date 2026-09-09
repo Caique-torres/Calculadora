@@ -18,9 +18,10 @@ Uma calculadora web desenvolvida com HTML, CSS e JavaScript, criada para pratica
 - 🔢 Operações com números decimais
 
 ##🛠️ Tecnologias utilizadas
--HTML5
--CSS3
--JavaScript
+
+- HTML5
+- CSS3
+- JavaScript
 
 ##📚 Objetivo
 
