@@ -29,6 +29,6 @@ Este projeto foi desenvolvido para colocar em prática conhecimentos de HTML, CS
 
 ## 👨‍💻 Autor
 
-Caique Torres
+**Caique Torres**
 
-GitHub
+- 🐙 [GitHub](https://github.com/Caique-torres)
