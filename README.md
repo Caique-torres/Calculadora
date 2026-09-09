@@ -19,19 +19,6 @@ Uma calculadora web desenvolvida com HTML, CSS e JavaScript, criada para pratica
 HTML5
 CSS3
 JavaScript
-💻 Como executar o projeto
-
-Clone este repositório:
-
-git clone https://github.com/caique-torres/Calculadora.git
-
-
-Entre na pasta do projeto:
-
-cd Calculadora
-
-
-Depois, abra o arquivo index.html no navegador.
 
 📚 Objetivo
 
