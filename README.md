@@ -6,19 +6,20 @@ Uma calculadora web desenvolvida com HTML, CSS e JavaScript, criada para pratica
 
 👉 **[Clique aqui para acessar a calculadora](https://caique-torres.github.io/Calculadora/)**
 
-✨ Funcionalidades
-➕ Adição
-➖ Subtração
-✖️ Multiplicação
-➗ Divisão
-% Porcentagem
-⌫ Apagar o último caractere
-🧹 Limpar a operação
-🔢 Operações com números decimais
+-✨ Funcionalidades
+-➕ Adição
+-➖ Subtração
+-✖️ Multiplicação
+-➗ Divisão
+-% Porcentagem
+-⌫ Apagar o último caractere
+-🧹 Limpar a operação
+-🔢 Operações com números decimais
+
 🛠️ Tecnologias utilizadas
-HTML5
-CSS3
-JavaScript
+-HTML5
+-CSS3
+-JavaScript
 
 📚 Objetivo
 
