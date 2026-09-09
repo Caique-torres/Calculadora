@@ -31,4 +31,4 @@ Este projeto foi desenvolvido para colocar em prática conhecimentos de HTML, CS
 
 **Caique Torres**
 
-- 🐙 [GitHub](https://github.com/Caique-torres)
+-  [GitHub](https://github.com/Caique-torres)
