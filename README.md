@@ -17,7 +17,7 @@ Uma calculadora web desenvolvida com HTML, CSS e JavaScript, criada para pratica
 - 🧹 Limpar a operação
 - 🔢 Operações com números decimais
 
-##🛠️ Tecnologias utilizadas
+## 🛠️ Tecnologias utilizadas
 
 - HTML5
 - CSS3
